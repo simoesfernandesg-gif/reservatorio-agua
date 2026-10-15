@@ -5,11 +5,11 @@
 
 | **Nível do reservatório** | **Situação** | **Cor sugerida** |
 |----|----|----|
-| Nível 1 | Muito baixo (crítico) | <span style="color: **red;”**>VERMELHO</span> |
-| Nível 2 | Baixo | <span style="color: **yellow;”**>AMARELO</span> |
-| Nível 3 | Médio | <span style="color: **green;”**>VERDE</span> |
-| Nível 4 | Alto | <span style="color: **Cyan;”**>CIANO</span> |
-| Nível 5 | Muito alto (alerta) | <span style="color: **bllue;”**>AZUL</span> |
+| Nível 1 | Muito baixo (crítico) | 🔴 Vermelho |
+| Nível 2 | Baixo | 🟡 Amarelo |
+| Nível 3 | Médio | 🟢 Verde |
+| Nível 4 | Alto | 🔵 Ciano |
+| Nível 5 | Muito alto (alerta) | 🔵 Azul |
 
 ## Tecnologias Utilizadas
 
