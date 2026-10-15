@@ -1,1 +1,17 @@
-# reservatorio-agua
+# Controle de Níveis de Água.
+
+       Programa desenvolvido em \*\*Python\*\* para simular o monitoramento e controle dos níveis de água de um reservatório, utilizando formatação de texto  no terminal com a biblioteca \*\*<span style="color: **Cyan;”**>COLORAMA</span>\*\*.
+
+       O programa exibe os níveis do reservatório de forma clara , seguindo a sequência de um nível mais baixo até o nível máximo do reservatório.  Cada nível é associado a uma mensagem de alerta e a uma cor, seguindo a progressão de risco:
+
+| **Nível do reservatório** | **Situação** | **Cor sugerida** |
+|----|----|----|
+| Nível 1 | Muito baixo (crítico) | <span style="color: **red;”**>VERMELHO</span> |
+| Nível 2 | Baixo | <span style="color: **yellow;”**>AMARELO</span> |
+| Nível 3 | Médio | <span style="color: **green;”**>VERDE</span> |
+| Nível 4 | Alto | <span style="color: **Cyan;”**>CIANO</span> |
+| Nível 5 | Muito alto (alerta) | <span style="color: **bllue;”**>AZUL</span> |
+
+## Tecnologias Utilizadas
+
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Colorama-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Colorama"> </p>
