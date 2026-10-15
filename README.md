@@ -1,8 +1,7 @@
 # Controle de Níveis de Água.
 
-       Programa desenvolvido em \*\*Python\*\* para simular o monitoramento e controle dos níveis de água de um reservatório, utilizando formatação de texto  no terminal com a biblioteca \*\*<span style="color: **Cyan;”**>COLORAMA</span>\*\*.
-
-       O programa exibe os níveis do reservatório de forma clara , seguindo a sequência de um nível mais baixo até o nível máximo do reservatório.  Cada nível é associado a uma mensagem de alerta e a uma cor, seguindo a progressão de risco:
+   Programa desenvolvido em **Python** para simular o monitoramento e controle dos níveis de água de um reservatório, utilizando formatação de texto no terminal com a biblioteca **COLORAMA**.
+   O sistema exibe os níveis do reservatório de forma clara, seguindo a sequência do nível mais baixo até o nível máximo. Cada nível é associado a uma mensagem de alerta e a uma cor, seguindo a progressão de risco:
 
 | **Nível do reservatório** | **Situação** | **Cor sugerida** |
 |----|----|----|
